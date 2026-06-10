@@ -10,7 +10,7 @@
 ## Features / Возможности
 
 ### Eng
-*   **High Quality Streaming**: Listen to the best Sovietwave stations with low latency.
+*   **High Quality Streaming**: Listen Sovietwave with low latency.
 *   **Smart Metadata**: Real-time track information (Artist, Title) with automatic artwork fetching from iTunes API.
 *   **Dynamic UI**: Modern Jetpack Compose interface with "Pulse" animations and full landscape support.
 *   **Favorites System**: Save your favorite tracks locally and access them anytime.
@@ -19,7 +19,7 @@
 *   **Robust Networking**: Optimized for various network conditions, including IPv4 fallback for reliable artwork loading.
 
 ### RU
-*   **Высокое качество потока**: Слушайте лучшие Sovietwave станции с минимальной задержкой.
+*   **Высокое качество потока**: Слушайте  Sovietwave  с минимальной задержкой.
 *   **Умные метаданные**: Информация о треке в реальном времени (Артист, Название) с автоматической загрузкой обложек через iTunes API.
 *   **Динамичный интерфейс**: Современный UI на Jetpack Compose с анимацией "пульсации" и поддержкой альбомной ориентации.
 *   **Система избранного**: Сохраняйте любимые треки в локальную базу и возвращайтесь к ним позже.
