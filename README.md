@@ -5,6 +5,7 @@
 
 [EN] A streaming radio application dedicated to Sovietwave music.
 
+
 ---
 
 ## Features / Возможности
@@ -27,6 +28,18 @@
 *   **Интеграция с Media3**: Полноценная фоновая работа с управлением через уведомления и экран блокировки.
 *   **Стабильная сеть**: Оптимизировано для разных условий сети, включая обход проблем с IPv6 для надежной загрузки обложек.
 
+## Screenshots / Скриншоты
+
+<p align="center">
+  <img src="Screenshots/MainScreen.png" width="30%" alt="Main Screen" />
+  <img src="Screenshots/History.png" width="30%" alt="History" />
+  <img src="Screenshots/Favorites.png" width="30%" alt="Favorites" />
+</p>
+
+<p align="center">
+  <img src="Screenshots/MediaControl.png" width="45%" alt="Media Controls" />
+  <img src="Screenshots/MaterialIcon.png" width="20%" alt="Material Icon" />
+</p>
 ---
 
 ## Tech Stack / Технологии
