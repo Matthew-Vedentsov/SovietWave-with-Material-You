@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SovietWave</string>
+    <string name="default_station_name">SovietWave</string>
+    <string name="format_aac">AAC</string>
+    <string name="format_mp3">MP3</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="status_idle">Tap to play</string>
+    <string name="status_buffering">Connecting…</string>
+    <string name="status_playing">On air</string>
+    <string name="status_paused">Paused</string>
+    <string name="status_error">Playback error</string>
+    <string name="notification_channel_name">Radio playback</string>
+    <string name="notification_channel_description">Playback controls in the notification shade and on the lock screen</string>
+    <string name="notification_artist">SovietWave</string>
+    <string name="station_artwork">Station artwork</string>
+    <string name="track_info_pending">Waiting for track info…</string>
+    <string name="history_button">Broadcast history</string>
+    <string name="history_title">Broadcast history</string>
+    <string name="history_empty">No tracks in history</string>
+    <string name="history_error">Failed to load history. Tap to retry.</string>
+    <string name="back">Back</string>
+    <string name="artist_link">Artist link</string>
+    <string name="favorites_button">Favorites</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="favorites_empty">No favorite tracks yet</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+</resources>

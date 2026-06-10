@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SovietWave</string>
+    <string name="default_station_name">SovietWave</string>
+    <string name="format_aac">AAC</string>
+    <string name="format_mp3">MP3</string>
+    <string name="play">Воспроизвести</string>
+    <string name="pause">Пауза</string>
+    <string name="status_idle">Нажмите для воспроизведения</string>
+    <string name="status_buffering">Подключение…</string>
+    <string name="status_playing">В эфире</string>
+    <string name="status_paused">На паузе</string>
+    <string name="status_error">Ошибка воспроизведения</string>
+    <string name="notification_channel_name">Воспроизведение радио</string>
+    <string name="notification_channel_description">Управление воспроизведением в шторке и на экране блокировки</string>
+    <string name="notification_artist">SovietWave</string>
+    <string name="station_artwork">Обложка станции</string>
+    <string name="track_info_pending">Ожидание данных о треке…</string>
+    <string name="history_button">История трансляции</string>
+    <string name="history_title">История трансляции</string>
+    <string name="history_empty">История пуста</string>
+    <string name="history_error">Не удалось загрузить историю. Нажмите, чтобы повторить.</string>
+    <string name="back">Назад</string>
+    <string name="artist_link">Ссылка на артиста</string>
+    <string name="favorites_button">Избранное</string>
+    <string name="favorites_title">Избранное</string>
+    <string name="favorites_empty">В избранном пока ничего нет</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="remove_from_favorites">Убрать из избранного</string>
+</resources>
